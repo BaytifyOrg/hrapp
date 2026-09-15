@@ -1,0 +1,13 @@
+{
+  "name": "Baytify HR",
+  "short_name": "Baytify HR",
+  "description": "HR management for Baytify",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#232D3E",
+  "theme_color": "#232D3E",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
